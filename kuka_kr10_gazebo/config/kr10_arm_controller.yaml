@@ -8,5 +8,6 @@ arm_controller:
     - joint_a5
     - joint_a6
 
+
   state_publish_rate:  100
   action_monitor_rate: 100
